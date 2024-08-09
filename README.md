@@ -12,9 +12,6 @@
 - [Curriculum Version](#curriculum-version)
 - [Summary](#summary)
 - [Progress](#progress)
-  - [Intro CS](#intro-cs)
-    - [Introduction to Programming](#introduction-to-programming)
-    - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
     - [Core Programming](#core-programming)
     - [Core Math](#core-math)
@@ -32,31 +29,11 @@
     - [Advanced Math](#advanced-math)
   - [Final Project](#final-project)
 
-# Curriculum Version
-
-|                      Change                      |                                               Commit                                                |
-| :----------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-| update Software Engineering: Introduction course | [17e6800](https://github.com/ossu/computer-science/commit/17e6800807aa43bd600efe4bde610b5d62f19560) |
-
 # Summary
 
-This repository tracks a user's progress through the OSSU Computer Science curriculum. Work should be tracked in private repositories, where applicable, so no honour policies are broken.
+This repository tracks my progress through the OSSU Computer Science curriculum. I have made some modifications in order to fit my own goals better, or if i have other material that covers the same subject.
 
 # Progress
-
-## Intro CS
-
-### Introduction to Programming
-
-| Provider |                        Course                        | Completion Date | Proof | Repository |
-| :------: | :--------------------------------------------------: | :-------------: | :---: | :--------: |
-| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |        -        |   -   |     -      |
-
-### Introduction to Computer Science
-
-| Provider |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
-| :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| MIT OCW  | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |        -        |   -   |     -      |
 
 ## Core CS
 
@@ -68,31 +45,28 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 | University of Washington |    [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)     |        -        |   -   |     -      |
 | University of Washington | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) |        -        |   -   |     -      |
 | University of Washington | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) |        -        |   -   |     -      |
-|  University of Alberta   |       [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)        |        -        |   -   |     -      |
-|  University of Alberta   |              [Design Patterns](https://www.coursera.org/learn/design-patterns)               |        -        |   -   |     -      |
-|  University of Alberta   |        [Software Architecture](https://www.coursera.org/learn/software-architecture)         |        -        |   -   |     -      |
+|  Textbook                |              The GoF book                                                                    |        -        |   -   |     -      |
 
 ### Core Math
 
 |         Provider          |                                                                Course                                                                 | Completion Date | Proof | Repository |
 | :-----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| MIT Open Learning Library |           [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)            |        -        |   -   |     -      |
-| MIT Open Learning Library |             [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)              |        -        |   -   |     -      |
-| MIT Open Learning Library | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |        -        |   -   |     -      |
-| MIT Open Learning Library |           [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)           |        -        |   -   |     -      |
+| Textbook                  |           A calculus textbook my boss gave me                                                                                         |        -        |   -   |     -      |
+| Textbook                  |           Discrete Mathematics With Applications, Epp S.                                                                              |        -        |   -   |     -      |
 
 ### CS Tools
 
 | Provider |                                   Course                                    | Completion Date | Proof | Repository |
 | :------: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|   MIT    | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        -        |   -   |     -      |
+|   MIT    | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |  2024-04-24     |   -   |     -      |
 
 ### Core Systems
 
 |              Provider               |                                                        Course                                                         | Completion Date | Proof | Repository |
 | :---------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |        -        |   -   |     -      |
-|   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  |        -        |   -   |     -      |
+|   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |  2024-03-02     |   -   |     -      |
+|   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  |  2024-04-20     |   -   |     -      |
+|    Textbook                         | Computer Systems: A Programmer's Perspective                                                                          |        -        |   -   |     -      |
 |   University of Wisconsin–Madison   |            [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)            |        -        |   -   |     -      |
 | University of Massachusetts Amherst |         [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)          |        -        |   -   |     -      |
 
