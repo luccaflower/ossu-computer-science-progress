@@ -9,7 +9,6 @@
 # Contents
 
 - [Contents](#contents)
-- [Curriculum Version](#curriculum-version)
 - [Summary](#summary)
 - [Progress](#progress)
   - [Core CS](#core-cs)
