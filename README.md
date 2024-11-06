@@ -93,7 +93,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 ### Core Applications
 
 |    Provider     |                                                   Course                                                    | Completion Date |  Completed  |
-| :-------------: | :---------------------------------------------------------------------------------------------------------: | :-------------: | :-------- : |
+| :-------------: | :---------------------------------------------------------------------------------------------------------: | :-------------: | :---------: |
 | Stanford Online |              [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)               |        -        |      -      |
 | Stanford Online |            [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)            |        -        |      -      |
 | Stanford Online |              [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)               |        -        |      -      |
