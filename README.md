@@ -55,9 +55,9 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### CS Tools
 
-| Provider |                                   Course                                    | Completion Date | 
-| :------: | :-------------------------------------------------------------------------: | :-------------: | 
-|   MIT    | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |  2024-04-24     | 
+| Provider |                                   Course                                    | Completion Date | Completed |
+| :------: | :-------------------------------------------------------------------------: | :-------------: | :-------: |
+|   MIT    | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |  2024-04-24     |    ✅     |
 
 ### Core Systems
 
