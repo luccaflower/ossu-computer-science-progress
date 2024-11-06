@@ -103,11 +103,11 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Ethics
 
-|              Provider              |                                                   Course                                                   | Completion Date |   Completed  |
-| :--------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------: |  :-------- : |
-| Eindhoven University of Technology |     [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)     |        -        |       -      |
-|     University of Pennsylvania     | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) |        -        |       -      |
-|      Northeastern University       |           [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)            |        -        |       -      |
+|              Provider              |                                                   Course                                                   | Completion Date |  Completed  |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------: | :---------: |
+| Eindhoven University of Technology |     [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)     |        -        |      -      |
+|     University of Pennsylvania     | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) |        -        |      -      |
+|      Northeastern University       |           [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)            |        -        |      -      |
 <!--
 ## Advanced CS
 
