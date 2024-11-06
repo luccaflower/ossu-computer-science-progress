@@ -48,10 +48,10 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Math
 
-| Provider  |                        Course                  | Completion Date | Proof | Repository | Completed |
-| :-------: | :--------------------------------------------: | :-------------: | :---: | :--------: | :-------: |
-| Textbook  | A calculus textbook my boss gave me            |        -        |   -   |     -      |     -     |
-| Textbook  | Discrete Mathematics With Applications, Epp S. |        -        |   -   |     -      |    ⏩     |
+| Provider  |                        Course                  | Completion Date | Completed |
+| :-------: | :--------------------------------------------: | :-------------: | :-------: |
+| Textbook  | A calculus textbook my boss gave me            |        -        |     -     |
+| Textbook  | Discrete Mathematics With Applications, Epp S. |        -        |    ⏩     |
 
 ### CS Tools
 
