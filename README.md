@@ -5,29 +5,6 @@
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
-
-# Contents
-
-- [Contents](#contents)
-- [Summary](#summary)
-- [Progress](#progress)
-  - [Core CS](#core-cs)
-    - [Core Programming](#core-programming)
-    - [Core Math](#core-math)
-    - [CS Tools](#cs-tools)
-    - [Core Systems](#core-systems)
-    - [Core Theory](#core-theory)
-    - [Core Security](#core-security)
-    - [Core Applications](#core-applications)
-    - [Core Ethics](#core-ethics)
-  - [Advanced CS](#advanced-cs)
-    - [Advanced Programming](#advanced-programming)
-    - [Advanced Systems](#advanced-systems)
-    - [Advanced Theory](#advanced-theory)
-    - [Advanced Information Security](#advanced-information-security)
-    - [Advanced Math](#advanced-math)
-  - [Final Project](#final-project)
-
 # Summary
 
 This repository tracks my progress through the OSSU Computer Science curriculum. I have made some modifications in order to fit my own goals better, or if i have other material that covers the same subject.
