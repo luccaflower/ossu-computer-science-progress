@@ -5,6 +5,7 @@
     <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
   </a>
 </p>
+
 # Summary
 
 This repository tracks my progress through the OSSU Computer Science curriculum. I have made some modifications in order to fit my own goals better, or if i have other material that covers the same subject.
